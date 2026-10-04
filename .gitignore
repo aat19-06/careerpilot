@@ -34,3 +34,6 @@ data/
 
 # Logs
 *.log
+
+# Python packaging
+*.egg-info/
